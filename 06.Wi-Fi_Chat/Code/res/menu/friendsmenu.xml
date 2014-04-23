@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/itemFind"
+        android:title="Discover friends" />
+    <item android:id="@+id/itemMessage"
+        android:title="Show messages" />
+    <item android:id="@+id/itemMySelf"
+        android:title="My profile" />
+</menu>
