@@ -4,7 +4,7 @@ Projects and paper
 This repository contains some of my projects and paper I did by myself or with classmates in Santa Clara University. Most of them were done within very tight schedule (2 ~ 5 weeks). However I hope I can develop some of them in a further step one day.
 
 1. Tencent Multimedia Ads pCTR Challenge on ICME2014
-Solve a contest problem in ICME2014 about predicting the pCTR (click-through rate) of multimedia advertisements of Tencent (the biggest Internet content and service provider in China, operator of QQ and wechat). In this project, I will use the machine learning knowledge to analyze the training data, and then try to predict the pCTR of the testing data.
+<p>Solve a contest problem in ICME2014 about predicting the pCTR (click-through rate) of multimedia advertisements of Tencent (the biggest Internet content and service provider in China, operator of QQ and wechat). In this project, I will use the machine learning knowledge to analyze the training data, and then try to predict the pCTR of the testing data.
 This project is ongoing. Work together with Christopher Yu.
 
 2. Refine search engine results with patterns
