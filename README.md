@@ -16,7 +16,6 @@ A proposal about adding new beacon frames to let the Wi-Fi devices to "introduce
 I did this research independently in Summer 2013.
 
 4. "So-safe" security system
-
 https://github.com/kennyhe/paper/tree/master/04.SoSafeSecuritySystemSimulation. 
 Worked with Sakshi Singh in Summer 2013.
 
